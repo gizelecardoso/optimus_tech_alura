@@ -1,0 +1,29 @@
+.first_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 407px;
+  padding: 50px;
+}
+
+.first_section_pre_title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--red-first-color);
+  font-family: "Inter", sans-serif;
+}
+
+.first_section_title {
+  font-size: 48px;
+  font-weight: 600;
+  color: var(--black-first-color);
+  font-family: "Inter", sans-serif;
+}
+
+.first_section_sub_title {
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--grey-second-color);
+  font-family: "Inter", sans-serif;
+}
