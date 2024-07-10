@@ -5,17 +5,27 @@ This project is based on 7DaysOfCode is a Alura's challenge that was indicated t
 
 1. Challenge First Day
 
-Create the header of the page
+- Create the header of the page
+
 ![alt text](./assets/readme/first_day.png)
 
 
 2. Challenge Second Day
 
-Create the first section with some informations
+- Create the first section with some informations
+
 ![alt text](./assets/readme/second_day.png)
 
 
 3. Challenge Third Day
 
-Create section with metrical informations
+- Create section with metrical informations
+
 ![alt text](./assets/readme/third_day.png)
+
+
+4. Challenge Fourth Day
+
+- Create section looking for a job with image
+
+![alt text](./assets/readme/fourth_day.png)
