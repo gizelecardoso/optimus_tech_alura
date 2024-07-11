@@ -36,3 +36,10 @@ This project is based on 7DaysOfCode is a Alura's challenge that was indicated t
 - Create section about available jobs
 
 ![alt text](./assets/readme/fifth_day.png)
+
+
+6. Challenge Sixth Day
+
+- Create section about depositions
+
+![alt text](./assets/readme/sixth_day.png)
