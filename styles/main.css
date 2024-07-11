@@ -103,3 +103,43 @@
 .container_looking_for_talents_image {
   width: 100%;
 }
+
+.jobs {
+  display: grid;
+  width: 80%;
+  gap: 24px;
+}
+
+.jobs_card {
+  display: grid;
+  gap: 24px;
+  padding: 10px;
+  border: 1px solid var(--blue-first-color);
+}
+
+.jobs_group {
+  padding: 50px 0 20px 0;
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--black-first-color);
+  font-family: "Inter", sans-serif;
+}
+
+.jobs_group_title {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--black-first-color);
+  font-family: "Inter", sans-serif;
+}
+
+.jobs_group_infos {
+  display: flex;
+  margin: 0;
+}
+
+.jobs_group_infos_text {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--gray-second-color);
+  font-family: "Inter", sans-serif;
+}
